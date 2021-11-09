@@ -1,8 +1,8 @@
 =====================
 
-## Ian O'Byrne
+## Diarmaid O' Cualain
 
-### Educator, Researcher, Learner 
+### Research and Software Engineer in Ireland
 
 ![ChangeMe](https://live.staticflickr.com/1516/26082296122_f2675d3d87_o.jpg)
 
@@ -20,9 +20,9 @@ github.com/CHANGEME
 
 ### In A Nutshell
 
-> Sartorial schlitz ugh excepteur officia, placeat you probably haven't heard of them aute typewriter laborum culpa. Reprehenderit DIY microdosing roof party vinyl. Pug bespoke single-origin coffee distillery, austin culpa voluptate quis keytar. Ennui seitan health goth, gluten-free pop-up VHS truffaut. 
+> I am a software engineer with a large interest in computer vision, data analysis, machine learning and sensors.
 
-> Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chambray banh mi. Selfies authentic cred crucifix, flexitarian thundercats cronut pug disrupt health goth. Crucifix magna ex, etsy kale chips tote bag jean shorts.
+I am a big fan of cycling, swimming and repairing stuff.
 
 =====================
 
